@@ -10,6 +10,19 @@
             </conditions>
             <actions>
                 <action id="32" name="Maximize" sid="568563506455960" type="Electron" />
+                <action id="30" name="Set title" sid="477946944064522" type="Electron">
+                    <param id="0" name="Title">&quot;FrameworkJS&quot;</param>
+                </action>
+                <action id="14" name="Log" sid="330799769233249" type="Browser">
+                    <param id="0" name="Type">0</param>
+                    <param id="1" name="Message">&quot;Changed window title to &apos;FrameworkJS&apos;&quot;</param>
+                </action>
+                <action id="19" name="Include Javascript file" sid="518366554995020" type="UI">
+                    <param id="0" name="Javascript file">&quot;popper.min.js&quot;</param>
+                </action>
+                <action id="19" name="Include Javascript file" sid="899324844801579" type="UI">
+                    <param id="0" name="Javascript file">&quot;bootstrap.min.js&quot;</param>
+                </action>
                 <action id="19" name="Include Javascript file" sid="994970542104687" type="UI">
                     <param id="0" name="Javascript file">&quot;script.js&quot;</param>
                 </action>
@@ -30,9 +43,6 @@
                 </action>
                 <action disabled="1" id="2" name="Import CSS file" sid="946398050736324" type="UI">
                     <param id="0" name="CSS file">&quot;dark-common.css&quot;</param>
-                </action>
-                <action id="19" name="Include Javascript file" sid="899324844801579" type="UI">
-                    <param id="0" name="Javascript file">&quot;bootstrap.min.js&quot;</param>
                 </action>
                 <action id="19" name="Include Javascript file" sid="339003747574287" type="UI">
                     <param id="0" name="Javascript file">&quot;material.min.js&quot;</param>
@@ -65,11 +75,7 @@
                 </event-block>
                 <event-block sid="811395584260083">
                     <conditions />
-                    <actions>
-                        <action id="19" name="Include Javascript file" sid="518366554995020" type="UI">
-                            <param id="0" name="Javascript file">&quot;popper.min.js&quot;</param>
-                        </action>
-                    </actions>
+                    <actions />
                 </event-block>
             </sub-events>
         </event-block>

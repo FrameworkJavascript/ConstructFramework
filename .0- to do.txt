@@ -1,0 +1,14 @@
+README.md
+License, Disclaimer
+Code of Conduct
+CONTRIBUTING
+
+pblsh your app to Electron, AirConsole, Dat, IP (Documentation)
+soon: crdv
+
+Make real apps through Construct 2.
+Who said C2 is just a game engine?
+> GIF of a app made with C2 FMWK
+
+link for GDevelop (IPFS)
+link for C2
