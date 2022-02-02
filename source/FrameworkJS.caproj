@@ -99,7 +99,6 @@
         <file name="iconsfont.css" />
         <file name="material.min.css" />
         <file name="material.min.js" />
-        <file name="page-custom.css" />
         <file name="popper.min.js" />
         <file name="roboto-cyrillic.woff2" />
         <file name="roboto-cyrillicext.woff2" />
@@ -119,6 +118,8 @@
         <file name="init.html" />
         <file name="app-common.css" />
         <file name="page-common.css" />
+        <file name="page-custom.css" />
         <file name="page-common.js" />
+        <file name="page-custom.js" />
     </files-folder>
 </c2project>
